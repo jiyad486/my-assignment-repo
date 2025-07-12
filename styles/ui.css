@@ -63,6 +63,8 @@ nav a{
 }
 .images{
   background-image: url(../Assets/Hero-bg.png);
+  width: 100%;
+  height: 698px;
 }
 .ui{
   font-size: 65px;
@@ -89,4 +91,36 @@ nav a{
   height: 328px;
   width: 403px;
   border-radius: 48px;
+}
+.user{
+  font-size: 38px;
+  font-weight: 700;
+  text-align: center;
+}
+.main-div{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0px 142px 0px 142px;
+}
+.blue{
+  font-weight: 700;
+  font-size: 80px;
+  color: #4E47FF;
+}
+.ash{
+  color: #00000085;
+  font-size: 20px;
+}
+.ht{
+  line-height: 0%;
+}
+.main-section{
+  background-color: #4d47ff1a;
+  margin: 0px 160px 120px 140px;
+  padding: 80px 50px;
+  border-radius: 24px;
+  gap: 10px;
+  width: 1140px;
+  height: 200px;
 }
