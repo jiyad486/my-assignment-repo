@@ -124,3 +124,46 @@ nav a{
   width: 1140px;
   height: 200px;
 }
+.flex{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0px 150px 0px 150px;
+  width: 1140px;
+  height: 632px;
+}
+.touch{
+  font-size: 97px;
+  font-weight: 700;
+  /* width: 1140px; */
+  margin: 0px 250px;
+}
+form{
+  width: 497px;
+  /* text-align: justify; */
+}
+.width{
+  width: 500px;
+  gap: 10px;
+  padding: 20px;
+  border-radius: 10px;
+  font-size: 20px;
+  font-weight: 400;
+}
+.email{
+  height: 70px;
+}
+.name{
+  height: 70px;
+}
+.mes{
+  height: 135px;
+}
+.get{
+  width: 542px;
+  height: 62px;
+  text-decoration: none;
+  /* padding: 101px 19px; */
+  color: white;
+
+}
