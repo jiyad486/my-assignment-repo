@@ -13,20 +13,40 @@
   font-style: normal;
 }
 .raleway-color{
-    font-size: 16px;
-    font-weight: bold;
+    font-size: 14px;
+    font-weight: 700;
     color: white;
+    text-decoration: none;
+    text-align: center;   
 }
 button{
+  color: white;
   background-color: #4E47FF;
-  border-radius: 8px;
-  width: 130px;
-  height: 50px;
   border: none;
+  font-weight: 700;
   font-size: 16px;
+  border-radius: 10px;
 }
-.l-color{
+.sign{
+  width: 132px;
+  height: 48px;
+}
+.stay-focused{
+  width: 174px;
+  height: 48px;
+}
+.launch{
+  width: 229px;
+  height: 48px;
+  /* padding: 36px 12px; */
+  gap: 10px;
+  font-weight: 700;
+}
+
+.logo{
 color: #4E47FF;
+font-size: 34px;
+font-weight: ;
 }
 
 nav{
@@ -38,14 +58,35 @@ nav{
 nav a{
     text-decoration: none;
 }
-div{
+.divi{
   text-align: center;
-}
-.stay-focused{
-  text-decoration: none;
-  width: 174px;
-  height: 48px;
 }
 .images{
   background-image: url(../Assets/Hero-bg.png);
+}
+.ui{
+  font-size: 65px;
+  font-weight: 700;
+}
+.see{
+  font-size: 42px;
+  font-weight: 700;
+  color: #252432;
+}
+.look{
+  color: #25243280;
+  font-weight: 400;
+  font-size: 24px;
+  font-weight: 400;
+}
+.text-pic{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 116px 160px 158px 140px;
+}
+.wc-mini{
+  height: 328px;
+  width: 403px;
+  border-radius: 48px;
 }
