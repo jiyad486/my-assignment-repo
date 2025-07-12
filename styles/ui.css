@@ -167,3 +167,36 @@ form{
   color: white;
 
 }
+body{
+background-color: #00000010;
+
+}
+footer{
+  background-color: white;
+  /* width: 100%; */
+
+}
+.log{
+  font-size: 100px;
+  font-weight: 700;
+  color: #4E47FF;
+
+}
+.end{
+  color: #8987A1;
+}
+.the-end{
+  height: 428px;
+  margin: 100px 455px;
+  text-align: center;
+}
+footer div a{
+  text-decoration: none;
+  color: #8987A1;
+}
+.margin{
+  margin-right: 48px;
+}
+.btn:hover{
+  background-color: plum;
+}
