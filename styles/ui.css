@@ -180,6 +180,7 @@ footer{
   font-size: 100px;
   font-weight: 700;
   color: #4E47FF;
+  text-align: center;
 
 }
 .end{
@@ -187,7 +188,7 @@ footer{
 }
 .the-end{
   height: 428px;
-  margin: 100px 455px;
+  margin: 0px 455px;
   text-align: center;
 }
 footer div a{
@@ -203,7 +204,6 @@ footer div a{
 .say{
   font-size: 42px;
   font-weight: 700;
-  text-align: center;
 }
 .ava{
   display: flex;
